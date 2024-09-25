@@ -16,5 +16,8 @@ echo 'hello php';
     <div class=" bg-red-700">
         hell js 
     </div>
+    <div class="bg-blue-500">
+        ll
+    </div>
 </body>
 </html>

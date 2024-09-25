@@ -4,8 +4,7 @@ tailwind.config.js
 # Ignore styles.css file
 styles.css
 
-# Ignore all CSS files in the dist directory
-dist/*.css
+# Ignore the compiled styles.css file
 
-# Ignore the entire dist directory
-dist/
+
+dist/styles.css
