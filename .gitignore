@@ -1,8 +1,11 @@
-# Ignore dist directory
-/dist/
+# Ignore tailwind.config.js file
+tailwind.config.js
 
 # Ignore styles.css file
-/styles.css
+styles.css
 
-# Ignore tailwind.config.js file
-/tailwind.config.js
+# Ignore all CSS files in the dist directory
+dist/*.css
+
+# Ignore the entire dist directory
+dist/
