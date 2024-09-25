@@ -1,0 +1,8 @@
+# Ignore dist directory
+/dist/
+
+# Ignore styles.css file
+/styles.css
+
+# Ignore tailwind.config.js file
+/tailwind.config.js
