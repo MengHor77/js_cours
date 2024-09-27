@@ -52,6 +52,23 @@
    
 
     <script>
+
+
+/*
+Objects: Represented by curly braces {} and consist of key-value pairs.
+
+{
+    "key1": "value1",
+    "key2": "value2"
+}
+Arrays: Represented by square brackets [] and consist of ordered lists of values.
+
+{
+    "arrayKey": ["value1", "value2", "value3"]
+}
+
+
+*/
     // Define a JavaScript Object
     const person = {
         name: "Alice",
