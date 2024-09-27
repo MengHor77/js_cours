@@ -9,6 +9,12 @@
     <div>
         Fetching JSON from local file and console to see data.
     </div>
+    <!-- 
+    - {} curly braces should  hold object.
+    -[] sqare brackets  hold array
+        
+    
+    -->
 
     <script>
         // Path to the JSON file served from your local XAMPP server
